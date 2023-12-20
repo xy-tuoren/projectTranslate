@@ -1,0 +1,6 @@
+{
+  "fileExt": [".js"],
+  "target": "en",
+  "path": "D:/Web/GoodKidsGame/template",
+  "excludePath": ["D:/Web/ToysEgg/template/static/game/"]
+}
